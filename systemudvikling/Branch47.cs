@@ -8,6 +8,9 @@ namespace systemudvikling
 {
     public class Branch47
     {
-        Console.Writeline("Hej");
+        public Branch47() 
+        {
+            Console.WriteLine("Faxe Kondi");
+        }
     }
 }
