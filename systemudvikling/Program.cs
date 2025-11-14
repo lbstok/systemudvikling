@@ -8,4 +8,8 @@ Console.WriteLine("HELP");
 Console.WriteLine("Charlotte");
 Console.WriteLine("HELP");
 
+Console.WriteLine("Rasmus");
+Console.WriteLine("Charlotte");
+Console.WriteLine("HELP");
+
 Console.WriteLine("Lasses linje");
