@@ -21,7 +21,7 @@ namespace systemudvikling
 
         public string Snakker(string altid)
         {
-            Console.WriteLine("snakker altid");
+            Console.WriteLine("snakker 99% af tiden");
             return altid;
         }
 
