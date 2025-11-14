@@ -12,5 +12,7 @@ namespace systemudvikling
         {
             Console.WriteLine("Faxe Kondi");
         }
+
+        
     }
 }
