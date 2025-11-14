@@ -21,6 +21,8 @@ Console.WriteLine("HELP");
 
 Console.WriteLine("Lasses linje");
 
+Console.WriteLine("David var her");
+
 public class Dog
 {
     public Dog(string name)
