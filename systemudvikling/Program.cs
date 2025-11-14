@@ -3,6 +3,9 @@ Console.WriteLine("Hello, World!");
 
 Console.WriteLine("Let me in!");
 
+<<<<<<< HEAD
+
+Console.WriteLine("hej");
 public class Dog
 {
     public Dog(string name)
@@ -11,3 +14,8 @@ public class Dog
     }
     string Name { get; set; }
 }
+=======
+Console.WriteLine("HELP");
+
+Console.WriteLine("Charlotte");
+>>>>>>> b7f9a09200f9c7cbf1d818406a029d2fd0064a55
