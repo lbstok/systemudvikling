@@ -3,17 +3,7 @@ Console.WriteLine("Hello, World!");
 
 Console.WriteLine("Let me in!");
 
-
 Console.WriteLine("hej");
-public class Dog
-{
-    public Dog(string name)
-    {
-        Name = name;
-    }
-    string Name { get; set; }
-}
-
 
 Console.WriteLine("HELP");
 
@@ -30,3 +20,12 @@ Console.WriteLine("Charlotte");
 Console.WriteLine("HELP");
 
 Console.WriteLine("Lasses linje");
+
+public class Dog
+{
+    public Dog(string name)
+    {
+        Name = name;
+    }
+    string Name { get; set; }
+}
